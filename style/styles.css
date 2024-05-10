@@ -16,3 +16,7 @@
     height: 50px;
     margin: 0 8px;
 }
+
+a.nav:hover{
+    transform: scale(1.1);
+}
