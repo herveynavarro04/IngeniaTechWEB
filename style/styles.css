@@ -42,6 +42,10 @@ a.nav:hover{
     align-items: center;
     gap: 36px;
     font-size: 24px;
+<<<<<<< HEAD
+=======
+    margin: 24px;
+>>>>>>> 245da62553ea86278aa2414673a5a92e4f2eb90f
 }
 
 .footer {
@@ -50,6 +54,7 @@ a.nav:hover{
     width: 100%;
     padding: 20px 0;
     text-align: left;
+<<<<<<< HEAD
 }
 
 .aboutUscardContainer {
@@ -78,4 +83,7 @@ a.nav:hover{
     font-size: 15px;
     max-width: 70%;
     word-wrap: break-word;
+=======
+    padding-left: 24px;
+>>>>>>> 245da62553ea86278aa2414673a5a92e4f2eb90f
 }
