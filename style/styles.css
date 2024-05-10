@@ -1,4 +1,3 @@
-
 .background {
     height: 100vh;
     width: 100vw;
@@ -42,10 +41,7 @@ a.nav:hover{
     align-items: center;
     gap: 36px;
     font-size: 24px;
-<<<<<<< HEAD
-=======
     margin: 24px;
->>>>>>> 245da62553ea86278aa2414673a5a92e4f2eb90f
 }
 
 .footer {
@@ -54,11 +50,11 @@ a.nav:hover{
     width: 100%;
     padding: 20px 0;
     text-align: left;
-<<<<<<< HEAD
+    padding-left: 24px;
 }
 
 .aboutUscardContainer {
-    gap: 30px;
+    gap: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -80,10 +76,7 @@ a.nav:hover{
 }
 
 .aboutUsCard p {
-    font-size: 15px;
-    max-width: 70%;
+    font-size: 11px;
+    max-width: 80%;
     word-wrap: break-word;
-=======
-    padding-left: 24px;
->>>>>>> 245da62553ea86278aa2414673a5a92e4f2eb90f
 }
