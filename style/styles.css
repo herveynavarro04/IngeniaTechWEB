@@ -41,7 +41,7 @@ a.nav:hover{
     align-items: center;
     gap: 36px;
     font-size: 24px;
-<<<<<<< HEAD
+    margin: 24px;
 }
 
 .footer {
@@ -50,7 +50,5 @@ a.nav:hover{
     width: 100%;
     padding: 20px 0;
     text-align: left;
-=======
-    margin: 24px;
->>>>>>> d4d20a4f8fd5f9a60e8d1b20226d4cfcad01532a
+    padding-left: 24px;
 }
